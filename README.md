@@ -23,5 +23,5 @@ Full-stack software engineer. I build products, dev tooling, and workflow automa
 
 - [Website](https://akoskm.com)
 - [Newsletter](https://akoskm.substack.com/)
-- [GitHub Pages site](https://akoskm.github.io)
+- [X](https://x.com/akoskm)
 - [LinkedIn](https://www.linkedin.com/in/akoskm/)

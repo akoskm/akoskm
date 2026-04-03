@@ -6,7 +6,7 @@ Full-stack software engineer. I build products, dev tooling, and workflow automa
 - Interested in DX, browser tooling, testing, automation, and AI workflows
 - Writing at [akoskm.com](https://akoskm.com)
 
-## Recent open source
+## Projects
 
 - 🧑‍💻 [akoskm.com-astro](https://github.com/akoskm/akoskm.com-astro) - current version of my personal site built with Astro
 - 👨‍👩‍👧 [kid-care-cards](https://github.com/akoskm/kid-care-cards) - a knowledge base for parents to track what worked before and stay prepared

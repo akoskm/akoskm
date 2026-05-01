@@ -8,6 +8,7 @@ Full-stack software engineer. I build products, dev tooling, and workflow automa
 
 ## Projects
 
+- ⏱️ [hrs](https://github.com/akoskm/hrs) - a TUI time tracker that imports coding agent sessions and turns them into billable time entries
 - 🧑‍💻 [akoskm.com-astro](https://github.com/akoskm/akoskm.com-astro) - current version of my personal site built with Astro
 - 👨‍👩‍👧 [kid-care-cards](https://github.com/akoskm/kid-care-cards) - a knowledge base for parents to track what worked before and stay prepared
 - 🤖 [create-mcp-server-stdio](https://github.com/akoskm/create-mcp-server-stdio) - starter tooling for building stdio MCP servers
